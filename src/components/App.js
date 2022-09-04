@@ -3,10 +3,10 @@ import '../styles/App.css';
 const App = () => {
 
   const handleClicka = (event) =>{
-   console.log("Button id is:- button-a")
+   console.log("Button id is:-button-a")
   }
    const handleClickb = (event) =>{
-   console.log("Button id is:- button-b")
+   console.log("Button id is:-button-b")
   }
 
   // do not remove the two buttons or change their id
